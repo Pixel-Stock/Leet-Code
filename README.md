@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pixel-Stock/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Pixel-Stock/Leet-Code/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
@@ -92,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Pixel-Stock/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Pixel-Stock/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
 ## Enumeration
 |  |
 | ------- |
