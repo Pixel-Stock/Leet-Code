@@ -1,7 +1,7 @@
 # Leet-Code
 A collection of LeetCode questions to ace the coding interview! - Created using LeetHub v2
 
-##### On a Vacation from 31st June till 9th July
+#### On a Vacation from 31st June till 9th July
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
