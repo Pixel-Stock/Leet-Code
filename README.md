@@ -33,6 +33,7 @@ kaam karo orr jeet jao
 | [0046-permutations](https://github.com/Pixel-Stock/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Pixel-Stock/Leet-Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ kaam karo orr jeet jao
 | [0036-valid-sudoku](https://github.com/Pixel-Stock/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Pixel-Stock/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Pixel-Stock/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pixel-Stock/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ kaam karo orr jeet jao
 | [0014-longest-common-prefix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Pixel-Stock/Leet-Code/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -91,6 +94,7 @@ kaam karo orr jeet jao
 | [0015-3sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pixel-Stock/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
