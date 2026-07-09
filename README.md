@@ -35,6 +35,7 @@ kaam karo orr jeet jao
 | [0048-rotate-image](https://github.com/Pixel-Stock/Leet-Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Pixel-Stock/Leet-Code/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Pixel-Stock/Leet-Code/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ kaam karo orr jeet jao
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pixel-Stock/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Pixel-Stock/Leet-Code/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +109,7 @@ kaam karo orr jeet jao
 | [0010-regular-expression-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Pixel-Stock/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Pixel-Stock/Leet-Code/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
