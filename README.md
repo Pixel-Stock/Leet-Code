@@ -38,6 +38,7 @@ kaam karo orr jeet jao
 | [0053-maximum-subarray](https://github.com/Pixel-Stock/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Pixel-Stock/Leet-Code/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Pixel-Stock/Leet-Code/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ kaam karo orr jeet jao
 | [0016-3sum-closest](https://github.com/Pixel-Stock/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pixel-Stock/Leet-Code/tree/master/0056-merge-intervals) |
 ## Sliding Window
 |  |
 | ------- |
