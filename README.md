@@ -37,6 +37,7 @@ kaam karo orr jeet jao
 | [0051-n-queens](https://github.com/Pixel-Stock/Leet-Code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pixel-Stock/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Pixel-Stock/Leet-Code/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ kaam karo orr jeet jao
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pixel-Stock/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Pixel-Stock/Leet-Code/tree/master/0055-jump-game) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ kaam karo orr jeet jao
 | [0042-trapping-rain-water](https://github.com/Pixel-Stock/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Pixel-Stock/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Pixel-Stock/Leet-Code/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
