@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Pixel-Stock/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pixel-Stock/Leet-Code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Pixel-Stock/Leet-Code/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/Pixel-Stock/Leet-Code/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Pixel-Stock/Leet-Code/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Pixel-Stock/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Pixel-Stock/Leet-Code/tree/master/0068-text-justification) |
 ## Trie
 |  |
 | ------- |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Pixel-Stock/Leet-Code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Pixel-Stock/Leet-Code/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
