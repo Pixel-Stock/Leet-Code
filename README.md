@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Pixel-Stock/Leet-Code/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pixel-Stock/Leet-Code/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/Pixel-Stock/Leet-Code/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Pixel-Stock/Leet-Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Pixel-Stock/Leet-Code/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Pixel-Stock/Leet-Code/tree/main/0066-plus-one/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
