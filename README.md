@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Pixel-Stock/Leet-Code/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Pixel-Stock/Leet-Code/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pixel-Stock/Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Pixel-Stock/Leet-Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Pixel-Stock/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Pixel-Stock/Leet-Code/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pixel-Stock/Leet-Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Pixel-Stock/Leet-Code/tree/master/0075-sort-colors) |
 ## Sliding Window
 |  |
 | ------- |
