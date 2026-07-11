@@ -3,22 +3,20 @@ import java.util.*;
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> result = new ArrayList<>();
-        backtrack(nums, 0, new ArrayList<>(), result);
-        return result;
+        List<List<Integer>> ans = new ArrayList<>(1 << nums.length);
+        dfs(nums, 0, new ArrayList<>(), ans);
+        return ans;
     }
 
-    private void backtrack(int[] nums, int index, List<Integer> current, List<List<Integer>> result) {
-        result.add(new ArrayList<>(current));
+    private void dfs(int[] nums, int index, List<Integer> curr, List<List<Integer>> ans) {
+        ans.add(new ArrayList<>(curr));
 
         for (int i = index; i < nums.length; i++) {
-            if (i > index && nums[i] == nums[i - 1]) {
-                continue;
-            }
+            if (i != index && nums[i] == nums[i - 1]) continue;
 
-            current.add(nums[i]);
-            backtrack(nums, i + 1, current, result);
-            current.remove(current.size() - 1);
+            curr.add(nums[i]);
+            dfs(nums, i + 1, curr, ans);
+            curr.remove(curr.size() - 1);
         }
     }
 }
