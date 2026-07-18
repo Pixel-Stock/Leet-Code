@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Pixel-Stock/Leet-Code/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Pixel-Stock/Leet-Code/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Pixel-Stock/Leet-Code/tree/master/0136-single-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Pixel-Stock/Leet-Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Pixel-Stock/Leet-Code/tree/master/0136-single-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
