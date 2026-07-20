@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pixel-Stock/Leet-Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Pixel-Stock/Leet-Code/tree/master/0136-single-number) |
+| [0899-binary-gap](https://github.com/Pixel-Stock/Leet-Code/tree/master/0899-binary-gap) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
