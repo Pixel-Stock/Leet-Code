@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pixel-Stock/Leet-Code/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Pixel-Stock/Leet-Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pixel-Stock/Leet-Code/tree/master/0136-single-number) |
+| [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pixel-Stock/Leet-Code/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Pixel-Stock/Leet-Code/tree/master/0130-surrounded-regions) |
+| [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Pixel-Stock/Leet-Code/tree/master/0068-text-justification) |
+| [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
