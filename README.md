@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pixel-Stock/Leet-Code/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Pixel-Stock/Leet-Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pixel-Stock/Leet-Code/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pixel-Stock/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pixel-Stock/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pixel-Stock/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -138,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pixel-Stock/Leet-Code/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Pixel-Stock/Leet-Code/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Pixel-Stock/Leet-Code/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pixel-Stock/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
@@ -293,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Pixel-Stock/Leet-Code/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
