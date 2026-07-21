@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pixel-Stock/Leet-Code/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pixel-Stock/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pixel-Stock/Leet-Code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
