@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pixel-Stock/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Pixel-Stock/Leet-Code/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0137-single-number-ii) |
 | [0899-binary-gap](https://github.com/Pixel-Stock/Leet-Code/tree/master/0899-binary-gap) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Graph Theory
 |  |
 | ------- |
