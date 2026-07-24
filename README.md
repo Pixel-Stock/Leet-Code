@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pixel-Stock/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pixel-Stock/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pixel-Stock/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pixel-Stock/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Pixel-Stock/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pixel-Stock/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -316,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
