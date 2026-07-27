@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0260-single-number-iii) |
 | [0332-reconstruct-itinerary](https://github.com/Pixel-Stock/Leet-Code/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/Pixel-Stock/Leet-Code/tree/master/0335-self-crossing) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pixel-Stock/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pixel-Stock/Leet-Code/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pixel-Stock/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0335-self-crossing](https://github.com/Pixel-Stock/Leet-Code/tree/master/0335-self-crossing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Pixel-Stock/Leet-Code/tree/master/0332-reconstruct-itinerary) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/Pixel-Stock/Leet-Code/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
