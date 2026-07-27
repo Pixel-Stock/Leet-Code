@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0260-single-number-iii) |
 | [0332-reconstruct-itinerary](https://github.com/Pixel-Stock/Leet-Code/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/Pixel-Stock/Leet-Code/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0336-palindrome-pairs) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pixel-Stock/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
+| [0336-palindrome-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0336-palindrome-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pixel-Stock/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -161,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pixel-Stock/Leet-Code/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [0332-reconstruct-itinerary](https://github.com/Pixel-Stock/Leet-Code/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0336-palindrome-pairs) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
+| [0336-palindrome-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0336-palindrome-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -397,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Pixel-Stock/Leet-Code/tree/master/0335-self-crossing) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
