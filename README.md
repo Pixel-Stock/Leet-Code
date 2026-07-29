@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Pixel-Stock/Leet-Code/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Pixel-Stock/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [0336-palindrome-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Pixel-Stock/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pixel-Stock/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pixel-Stock/Leet-Code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0332-reconstruct-itinerary](https://github.com/Pixel-Stock/Leet-Code/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Pixel-Stock/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pixel-Stock/Leet-Code/tree/master/3859-maximum-product-of-two-digits) |
