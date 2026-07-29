@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pixel-Stock/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Pixel-Stock/Leet-Code/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Pixel-Stock/Leet-Code/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pixel-Stock/Leet-Code/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Pixel-Stock/Leet-Code/tree/master/0130-surrounded-regions) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Pixel-Stock/Leet-Code/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 ## Backtracking
 |  |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Pixel-Stock/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0220-contains-duplicate-iii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Pixel-Stock/Leet-Code/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pixel-Stock/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Pixel-Stock/Leet-Code/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Queue
 |  |
 | ------- |
