@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Pixel-Stock/Leet-Code/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pixel-Stock/Leet-Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pixel-Stock/Leet-Code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Pixel-Stock/Leet-Code/tree/master/0135-candy) |
+| [0376-wiggle-subsequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [0354-russian-doll-envelopes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0354-russian-doll-envelopes) |
+| [0376-wiggle-subsequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
