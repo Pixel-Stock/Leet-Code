@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pixel-Stock/Leet-Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pixel-Stock/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/Pixel-Stock/Leet-Code/tree/master/0391-perfect-rectangle) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pixel-Stock/Leet-Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pixel-Stock/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/Pixel-Stock/Leet-Code/tree/master/0391-perfect-rectangle) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pixel-Stock/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Pixel-Stock/Leet-Code/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pixel-Stock/Leet-Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pixel-Stock/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/Pixel-Stock/Leet-Code/tree/master/0391-perfect-rectangle) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Pixel-Stock/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/Pixel-Stock/Leet-Code/tree/master/0391-perfect-rectangle) |
 ## Ordered Set
 |  |
 | ------- |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Pixel-Stock/Leet-Code/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/Pixel-Stock/Leet-Code/tree/master/0391-perfect-rectangle) |
 ## Hash Function
 |  |
 | ------- |
