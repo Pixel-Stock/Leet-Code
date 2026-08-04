@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Pixel-Stock/Leet-Code/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/Pixel-Stock/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/Pixel-Stock/Leet-Code/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Pixel-Stock/Leet-Code/tree/master/0139-word-break) |
 | [0332-reconstruct-itinerary](https://github.com/Pixel-Stock/Leet-Code/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0336-palindrome-pairs) |
+| [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -546,4 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/Pixel-Stock/Leet-Code/tree/master/0457-circular-array-loop) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
