@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/Pixel-Stock/Leet-Code/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/Pixel-Stock/Leet-Code/tree/master/0457-circular-array-loop) |
+| [0463-island-perimeter](https://github.com/Pixel-Stock/Leet-Code/tree/master/0463-island-perimeter) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/Pixel-Stock/Leet-Code/tree/master/0419-battleships-in-a-board) |
+| [0463-island-perimeter](https://github.com/Pixel-Stock/Leet-Code/tree/master/0463-island-perimeter) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 ## Backtracking
 |  |
@@ -403,12 +405,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pixel-Stock/Leet-Code/tree/master/0130-surrounded-regions) |
 | [0332-reconstruct-itinerary](https://github.com/Pixel-Stock/Leet-Code/tree/master/0332-reconstruct-itinerary) |
 | [0419-battleships-in-a-board](https://github.com/Pixel-Stock/Leet-Code/tree/master/0419-battleships-in-a-board) |
+| [0463-island-perimeter](https://github.com/Pixel-Stock/Leet-Code/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pixel-Stock/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Pixel-Stock/Leet-Code/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
+| [0463-island-perimeter](https://github.com/Pixel-Stock/Leet-Code/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pixel-Stock/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
