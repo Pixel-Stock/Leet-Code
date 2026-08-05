@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Pixel-Stock/Leet-Code/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Pixel-Stock/Leet-Code/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
+| [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Pixel-Stock/Leet-Code/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Pixel-Stock/Leet-Code/tree/master/0457-circular-array-loop) |
+| [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pixel-Stock/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pixel-Stock/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pixel-Stock/Leet-Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -574,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Pixel-Stock/Leet-Code/tree/master/0473-matchsticks-to-square) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
