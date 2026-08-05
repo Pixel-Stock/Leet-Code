@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Pixel-Stock/Leet-Code/tree/master/0332-reconstruct-itinerary) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pixel-Stock/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3561-remove-methods-from-project](https://github.com/Pixel-Stock/Leet-Code/tree/master/3561-remove-methods-from-project) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Pixel-Stock/Leet-Code/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Pixel-Stock/Leet-Code/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pixel-Stock/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/Pixel-Stock/Leet-Code/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Pixel-Stock/Leet-Code/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pixel-Stock/Leet-Code/tree/master/2685-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/Pixel-Stock/Leet-Code/tree/master/3561-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
