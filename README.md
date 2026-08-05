@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Pixel-Stock/Leet-Code/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/Pixel-Stock/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Pixel-Stock/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
