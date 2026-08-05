@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Pixel-Stock/Leet-Code/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Pixel-Stock/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pixel-Stock/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -354,12 +356,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Pixel-Stock/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pixel-Stock/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/Pixel-Stock/Leet-Code/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pixel-Stock/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pixel-Stock/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Pixel-Stock/Leet-Code/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
