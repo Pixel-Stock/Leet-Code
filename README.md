@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Pixel-Stock/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Pixel-Stock/Leet-Code/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/Pixel-Stock/Leet-Code/tree/master/0502-ipo) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pixel-Stock/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Pixel-Stock/Leet-Code/tree/master/0502-ipo) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pixel-Stock/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/Pixel-Stock/Leet-Code/tree/master/0472-concatenated-words) |
+| [0502-ipo](https://github.com/Pixel-Stock/Leet-Code/tree/master/0502-ipo) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pixel-Stock/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/Pixel-Stock/Leet-Code/tree/master/0502-ipo) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
