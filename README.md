@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Trie
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/Pixel-Stock/Leet-Code/tree/master/0473-matchsticks-to-square) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Pixel-Stock/Leet-Code/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Memoization
