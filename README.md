@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Pixel-Stock/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Pixel-Stock/Leet-Code/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Pixel-Stock/Leet-Code/tree/master/0517-super-washing-machines) |
+| [0518-coin-change-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0912-random-pick-with-weight](https://github.com/Pixel-Stock/Leet-Code/tree/master/0912-random-pick-with-weight) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Pixel-Stock/Leet-Code/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Pixel-Stock/Leet-Code/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
+| [0518-coin-change-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0518-coin-change-ii) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Pixel-Stock/Leet-Code/tree/master/0474-ones-and-zeroes) |
+| [0518-coin-change-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -606,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Pixel-Stock/Leet-Code/tree/master/0480-sliding-window-median) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
