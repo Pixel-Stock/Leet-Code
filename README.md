@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Pixel-Stock/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Pixel-Stock/Leet-Code/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Pixel-Stock/Leet-Code/tree/master/0517-super-washing-machines) |
 | [0912-random-pick-with-weight](https://github.com/Pixel-Stock/Leet-Code/tree/master/0912-random-pick-with-weight) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pixel-Stock/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Pixel-Stock/Leet-Code/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Pixel-Stock/Leet-Code/tree/master/0517-super-washing-machines) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
