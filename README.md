@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/0518-coin-change-ii) |
 | [1240-stone-game-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pixel-Stock/Leet-Code/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Pixel-Stock/Leet-Code/tree/master/0912-random-pick-with-weight) |
 | [1240-stone-game-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pixel-Stock/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1240-stone-game-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -634,8 +637,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
