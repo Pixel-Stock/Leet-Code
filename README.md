@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Pixel-Stock/Leet-Code/tree/master/0539-minimum-time-difference) |
+| [0554-brick-wall](https://github.com/Pixel-Stock/Leet-Code/tree/master/0554-brick-wall) |
 | [0912-random-pick-with-weight](https://github.com/Pixel-Stock/Leet-Code/tree/master/0912-random-pick-with-weight) |
 | [1240-stone-game-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1386-shift-2d-grid](https://github.com/Pixel-Stock/Leet-Code/tree/master/1386-shift-2d-grid) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pixel-Stock/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/Pixel-Stock/Leet-Code/tree/master/0554-brick-wall) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pixel-Stock/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pixel-Stock/Leet-Code/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -659,7 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
