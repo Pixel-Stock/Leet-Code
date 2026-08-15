@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pixel-Stock/Leet-Code/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Pixel-Stock/Leet-Code/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Pixel-Stock/Leet-Code/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Pixel-Stock/Leet-Code/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Pixel-Stock/Leet-Code/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pixel-Stock/Leet-Code/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
 | ------- |
@@ -670,7 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Pixel-Stock/Leet-Code/tree/master/1617-stone-game-iv) |
